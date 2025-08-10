@@ -1,0 +1,12 @@
+*.csv
+*.mp4
+*.ipynb_checkpoints
+*.log
+*.aux
+*.bbl
+*.out
+*.bdb_latexmk
+*.fls
+*.blg
+*.synctex.gz
+*.fdb_latexmk
